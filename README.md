@@ -6,3 +6,4 @@ IOQM 2023 Beautiful Number
 To understand the code, read this first:
 <br></br>
 <img width="782" height="480" alt="beautiful1" src="https://github.com/user-attachments/assets/ab1209d9-ef3e-4e28-816b-3383608577e0" />
+<br></br>
