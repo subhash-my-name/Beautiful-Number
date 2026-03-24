@@ -1,5 +1,5 @@
 # **Important**
-IOQM 2023 Beautiful Number
+[IOQM](https://ioqm.in/) 2023 Beautiful Number
 <br></br>
 <img width="1750" height="344" alt="BeautifulNumber" src="https://github.com/user-attachments/assets/e7c5e93d-9221-47fe-abae-a142d969f047" />
 <br></br>
